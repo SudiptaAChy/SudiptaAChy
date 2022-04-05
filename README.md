@@ -15,6 +15,11 @@ Have experience in programming, algorithmic problem solving and software develop
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: Loves travelling✈️, Watching movies🎬
 
+</br>
+
+| ![Sudipta's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudiptaAChy&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptaAChy&layout=compact) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+
 <!-- - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
